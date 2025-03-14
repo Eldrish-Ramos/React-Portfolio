@@ -10,9 +10,10 @@
 
 .container {
     justify-content: center;
-    max-width: 1200px;
-    margin: 0 auto;
+    max-width: 100%;
+    
     padding: 0 20px;
+    padding-bottom: 0rem;
 }
 
 .logo {

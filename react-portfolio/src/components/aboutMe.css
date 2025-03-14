@@ -1,0 +1,21 @@
+.about-me {
+    max-width: 100%;
+    background-color: #f4f4f4;
+    color: #333;
+
+  }
+  
+  .aboutContainer {
+    margin: 0 auto; 
+    top: 0;
+  }
+  
+  h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 2rem;
+    line-height: 1.6;
+  }
